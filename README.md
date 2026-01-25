@@ -107,5 +107,3 @@ This notebook is designed to support **match preparation** for players and coach
 ## Notes on Data Usage
 - Player names are used for analytical demonstration only
 - This project is non-commercial and intended purely for learning and portfolio purposes
-
-I have copy pasted this exactly into readme. Is it fine?
