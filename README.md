@@ -31,27 +31,22 @@ Raw data files are intentionally excluded from this repository.
 ---
 
 ## Project Structure
+
+```text
 pacc-cricket-analytics/
-│
 ├── notebooks/
 │   ├── 01_parse_ball_by_ball.ipynb
 │   ├── 02_team_insights.ipynb
 │   ├── 03_player_selection.ipynb
 │   └── 05_case_study_tom_andrews_vs_adelaide.ipynb
-│
 ├── data/
 │   ├── raw/        # ignored (local use only)
 │   └── processed/  # cleaned, analysis-ready outputs
-│
 ├── powerbi/
 │   └── PACC_Coach_Dashboard.pbix
-│
 ├── docs/
 │   └── data_dictionary.md
-│
 └── README.md
-
----
 
 ## Notebook Guide
 
