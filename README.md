@@ -65,34 +65,28 @@ This notebook focuses on **data correctness**, not insights.
 
 ---
 
-### Notebook 02 — Team & Innings Performance Insights
+### Notebook 02 —  PACC 1st grade team analysis
 **Purpose:**  
 Analyse how matches are won and lost at a team level.
 
 Focus areas:
 - Run rate patterns across an innings
-- Wicket timing and collapse detection
-- Momentum analysis
-- Comparison of winning vs losing performances
+- Wicket timing 
+- Collapse detection
+- Partnership analysis
 
 ---
 
-### Notebook 03 — Player Contribution & Selection Support
+### Notebook 03 — Player Case Study: Anshul Sethi
+
 **Purpose:**  
-Support team selection decisions using player-level performance data.
+Analyse Anshul Sethi’s batting performance to identify patterns related to
+time at the crease, conversion of starts, and dismissal behaviour.
 
-Focus areas:
-- Consistency vs volatility
-- Recent form analysis
-- Multi-skill contributions (batting, bowling, fielding)
-
----
-
-### Notebook 05 — Player Case Study: Opponent-Specific Analysis
-**Purpose:**  
-A deep-dive analysis of an individual player’s performance against a specific opponent over multiple seasons.
-
-This notebook is designed to support **match preparation** for players and coaches.
+**Focus areas:**
+- Time at the crease and its relationship to scoring output
+- Conversion of starts into higher scores (e.g. 30+ to 50+)
+- Dismissal modes across different run brackets
 
 ---
 
