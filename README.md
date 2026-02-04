@@ -50,9 +50,6 @@ pacc-cricket-analytics/
 ├── reports/
 │   └── README.md  # player / coach-facing summaries
 │
-├── powerbi/
-│   └── .gitkeep
-│
 ├── .gitignore
 ├── LICENSE
 └── README.md
